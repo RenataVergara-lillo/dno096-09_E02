@@ -88,5 +88,22 @@
         "foto": "https://github.com/user-attachments/assets/53e9ac47-17c6-4f44-9e4d-4916ff590664",
         "fotos": "https://github.com/user-attachments/assets/2711c9e7-57ae-4956-994a-6adb7180422b",
         "github": "https://github.com/RenataVergara-lillo"
-    }
+    },
+    {
+        "nombre": "Contramonumento",
+        "descripcion": "Trabajo realizado para un electivo de Planificación urbana, en el cual se tuvo que crear un contramunmneto en memoria de las víctimas de la dictadura para exponerlas en el campus Lo Contador.",
+        "fecha": "2022",
+        "signo": "industrial",
+        "foto": "https://github.com/user-attachments/assets/f1251c1d-b16f-4ead-98a3-3186371ea3d1",
+        "fotos": "https://github.com/user-attachments/assets/d590fc2b-d5a7-4bb5-af66-d1351d9e76ea",
+        "github": "https://github.com/RenataVergara-lillo"
+    },{
+        "nombre": "Estructura de Papel",
+        "descripcion": "Trabajo realizado para Estrcuturas y Materiales, donde se tuvo que crear un piso o banco en base a tubos de diario que soportará a una persona sentada sobre ella.",
+        "fecha": "2023",
+        "signo": "industrial",
+        "foto": "https://github.com/user-attachments/assets/a20aee34-5ea8-431a-9f53-692afac252c3",
+        "fotos": "https://github.com/user-attachments/assets/1aceb80a-71d4-4171-9ad7-05c5a9d8e0ea",
+        "github": "https://github.com/RenataVergara-lillo"
+    },
 ]
